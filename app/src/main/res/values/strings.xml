@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lumineye</string>
+
+    <!-- Brands -->
+    <string name="brand_carrera">carrera</string>
+    <string name="brand_raycloud">raycloud</string>
+    <string name="brand_optica">optica</string>
+    <string name="brand_tv">tv</string>
+    <string name="brand_guess">guess</string>
+    <string name="brand_cactus">cactus</string>
+    <string name="brand_emporio">emporio</string>
+
+    <!-- Frame Sizes -->
+    <string name="frame_size_small">Small</string>
+    <string name="frame_size_small_abbreviation">S</string>
+    <string name="frame_size_medium">Medium</string>
+    <string name="frame_size_medium_abbreviation">M</string>
+    <string name="frame_size_large">Large</string>
+    <string name="frame_size_large_abbreviation">L</string>
+</resources>
